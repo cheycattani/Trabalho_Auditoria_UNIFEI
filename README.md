@@ -9,11 +9,11 @@ Para o arquivo "decrypt.h" pedi ajuda do chatgpt.
 Comentei nos códigos: ProgramaBaseCifragem e ProgramaBaseDecifragem para ter um entendimento maior do passo a passo que utilizei. 
 
 #  Para o ProgramaBaseCifragem basta utilizar o comando: 
-*  Para compilar gcc ProgramaBaseCifragem.c -o cifragem *
-*  Para executar ./cifragem                             *
+*  Para compilar gcc ProgramaBaseCifragem.c -o cifragem 
+*  Para executar ./cifragem                             
 
 #  Para o ProgramaBaseDecifragem basta utilizar o comando: 
 
-*  Para compilar gcc ProgramaBaseDecifragem.c -o decifragem *
-*  Para executar ./decifragem                             *
+*  Para compilar gcc ProgramaBaseDecifragem.c -o decifragem 
+*  Para executar ./decifragem                             
 
